@@ -1,14 +1,17 @@
 # Projects 
-### Angel 
+
+
+  ## Building. Analyzing. Learning.
+
+  > A collection of projects where I apply SQL, Python, Excel, data analysis, and software development to solve real problems.
+
+
+
+
+
+  ### SQL 
   | Project   | Area Analysis   |  Tools | 🔗 Links  |
   | ------------ |---------------| -----|-------|
-  |this is a title | this is a description | TS ,NODEJS ,REACT  | [Link](https://github.com/angelbcdev/data-analysis-portfolio/tree/main/Projects/Audits)|
-|this is a title w | this is a description | TS ,NODEJS ,REACT  | [Link](https://github.com/angelbcdev/data-analysis-portfolio/tree/main/Projects/404)|
-|this is a title w | this is a description | TS ,NODEJS ,REACT  | [Link](https://github.com/angelbcdev/data-analysis-portfolio/tree/main/Projects/no)|
-   ### second  
-  | Project   | Area Analysis   |  Tools | 🔗 Links  |
-  | ------------ |---------------| -----|-------|
-  |this is a title | this is a description | TS ,NODEJS ,REACT  | [Link](https://github.com/angelbcdev/data-analysis-portfolio/tree/main/Projects/d)|
-|this is a title w | this is a description | TS ,NODEJS ,REACT  | [Link](https://github.com/angelbcdev/data-analysis-portfolio/tree/main/Projects/s)|
+  |Clean data survey | This project focuses on cleaning, transforming, and analyzing a customer survey dataset using MySQL. | SQL | [Link](https://github.com/angelbcdev/data-analysis-portfolio/tree/main/Projects/survey-data-cleaning)|
    
  ****

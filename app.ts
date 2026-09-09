@@ -14,49 +14,35 @@ interface Idata {
 }
 const data: Idata[] = [
   {
-    heather: "Angel",
+    heather: "SQL",
     projects: [
       {
-        title: "this is a title",
-        description: "this is a description",
-        tools: "TS ,NODEJS ,REACT ",
-        link: "Audits",
-      },
-      {
-        title: "this is a title w",
-        description: "this is a description",
-        tools: "TS ,NODEJS ,REACT ",
-        link: "404",
-      },
-      {
-        title: "this is a title w",
-        description: "this is a description",
-        tools: "TS ,NODEJS ,REACT ",
-        link: "no",
+        title: "Clean data survey",
+        description:
+          "This project focuses on cleaning, transforming, and analyzing a customer survey dataset using MySQL.",
+        tools: "SQL",
+        link: "survey-data-cleaning",
       },
     ],
   },
-  {
-    heather: "second ",
-    projects: [
-      {
-        title: "this is a title",
-        description: "this is a description",
-        tools: "TS ,NODEJS ,REACT ",
-        link: "d",
-      },
-      {
-        title: "this is a title w",
-        description: "this is a description",
-        tools: "TS ,NODEJS ,REACT ",
-        link: "s",
-      },
-    ],
-  },
+  // {
+  //   heather: "Python ",
+  //   projects: [],
+  // },
 ];
 
 const createTable = () => {
-  let template = `# Projects \n`;
+  let template = `# Projects \n
+
+  ## Building. Analyzing. Learning.
+
+  > A collection of projects where I apply SQL, Python, Excel, data analysis, and software development to solve real problems.
+
+
+
+
+
+  `;
 
   for (const project of data) {
     template += `### ${project.heather} 

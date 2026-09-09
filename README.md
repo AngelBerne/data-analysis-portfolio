@@ -1,7 +1,14 @@
 
 # ANGEL BERNECHA
 
-## ABOUT
+## ABOUT ME
+
+I didn’t plan to become a Data Analyst. I realized I was already thinking like one.
+
+I’m a technical problem-solver who is naturally curious about why things happen, how to measure them, and how to make them better.
+With a background in software development and experience working with SQL, Python, Excel, and Power Query, I’m now applying that mindset to data turning information into insights and better decisions.
+
+I’m not starting from zero. I’m starting from experience—with a new perspective.
 
 ## PORTFOLIO
 | Project   | Area Analysis   |  Tools | 🔗 Links  |
