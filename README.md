@@ -13,7 +13,7 @@ I’m not starting from zero. I’m starting from experience—with a new perspe
 ## PORTFOLIO
 | Project   | Area Analysis   |  Tools | 🔗 Links  |
 | ------------ |:---------------| -----|-------|
-| Automated Goal Tracking and Performance Analysis      | Developed an automated Excel and Power Query solution to transform raw operational data into a clear view of team and individual performance. The project reduced meeting preparation and data review time by approximately 20 minutes, improved visibility across categories, and helped the team quickly identify areas that required additional focus.| Excel, Power Query, Data visualization | [Project's files](https://github.com/angelbcdev/data-analysis-portfolio/tree/main/Projects/Audits) |
+| Web for Goal Tracking and Performance Analysis      | Built a React + TypeScript data reporting application to improve Asset Protection goal tracking across a global operation. I transformed raw operational data into actionable metrics, automated repetitive reporting tasks, and created views for weekly, individual, and overall performance. The solution reduced reporting preparation time from 20 minutes to approximately 5 minutes while combining my data analysis, process improvement, and software development experience. | [Project's files](https://github.com/angelbcdev/data-analysis-portfolio/tree/main/Projects/Audits) |
 | -      | -        |   - | |
 | - | -        |    - |- |
 

@@ -1,7 +1,7 @@
 # Projects 
 
 
-  ## Building. Analyzing. Learning.
+  
 
   > A collection of projects where I apply SQL, Python, Excel, data analysis, and software development to solve real problems.
 
