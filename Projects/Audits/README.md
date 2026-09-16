@@ -111,7 +111,7 @@ This turned the file from simply being a data-preparation tool into a more usefu
       <td><img src="./image/05.png" alt="Asset Protection Goal Tracking" width="400"></td>
     </tr>
     <tr>
-      <td><img src="./image/06.png" alt="Asset Protection Goal Tracking" width="400"></td>
+      <td><img src="./image/06.png" alt="Asset Protection node app.ts   Goal Tracking" width="400"></td>
       <td><img src="./image/07.png" alt="Asset Protection Goal Tracking" width="400"></td>
     </tr>
   </table>

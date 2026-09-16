@@ -25,10 +25,18 @@ const data: Idata[] = [
       },
     ],
   },
-  // {
-  //   heather: "Python ",
-  //   projects: [],
-  // },
+  {
+    heather: "SAS",
+    projects: [
+      {
+        title: "Web Auditors Dashboad",
+        description:
+          "This project focuses on cleaning, transforming, and analyzing a customer survey dataset using MySQL.",
+        tools: "REACT TYPESCRIPT",
+        link: "Audits",
+      },
+    ],
+  },
 ];
 
 const createTable = () => {

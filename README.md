@@ -19,6 +19,10 @@ I’m not starting from zero. I’m starting from experience—with a new perspe
 
 #### [ALL PROJECTS ...](https://github.com/angelbcdev/data-analysis-portfolio/tree/main/Projects)
 
+
+[DOWNLOAD CV](./assets/CV%20Angel%20Bernechea%20Data%20Analyst.pdf)
+
+
 ## EXPERIENCE
 
 ### Asset Protection Auditor
@@ -54,3 +58,25 @@ I’m not starting from zero. I’m starting from experience—with a new perspe
 
 ## FIND ME
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel_Bernechea-0077B5?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=f0f0f0)](https://www.linkedin.com/in/angel-bernechea/)
+
+
+
+
+### CERTIFICATES
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~VY5G2QGAEVHQ/CERTIFICATE_LANDING_PAGE~VY5G2QGAEVHQ.jpeg" alt="Google Data Analysit" width="400">
+      </td>
+      <!-- <td><img src="" alt="Asset Protection Goal Tracking" width="400"></td> -->
+    </tr>
+    <tr>
+      <td><img src="https://platzi.com/angelbernecha/curso/4822-course/diploma-og/og.jpeg" alt="Asset Protection Goal Tracking" width="400"></td>
+      <!-- <td><img src="" alt="Asset Protection Goal Tracking" width="400"></td> -->
+    </tr>
+    <tr>
+      <td><img src="https://platzi.com/angelbernecha/curso/11887-course/diploma-og/og.jpeg" alt="Asset Protection node app.ts   Goal Tracking" width="400"></td>
+      <td><img src="https://platzi.com/angelbernecha/curso/2878-course/diploma-og/og.jpeg" alt="Asset Protection Goal Tracking" width="400"></td>
+    </tr>
+  </table>
+</div>
